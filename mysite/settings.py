@@ -25,7 +25,7 @@ SECRET_KEY = '!w(p)9p4r*7l5n0l2ha77dfgysh9yqhs43oa5k6gw(iyad(eu@'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['grayliar.pythonanywhere.com']
 
 
 # Application definition
